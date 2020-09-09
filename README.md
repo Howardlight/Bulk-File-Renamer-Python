@@ -1,18 +1,18 @@
 # Bulk-File-Renamer-Python
-Dependencies:
-  Requires Python and the shutil module
+Dependencies: <br />
+  Requires Python and the shutil module <br />
 
-Description:
-  The names will be preset as {extensiontyp}-{N}.{extensiontype}
-  for example: xyz123.mp4 will be changed to MP4-1.mp4
-  The script also creates a log file that contains all changes and the path to the folder
-  (the log file is located inside the script's folder)
-  I am not responsible for any damage that occures to your files/PC
-  Use at your own risk
-  This script renames all files within a folder with the extensions: .png .jpg .jpeg 
-                                                                     .mp4 .mov .webm . gif
+Description: <br />
+  The names will be preset as {extensiontyp}-{N}.{extensiontype} <br />
+  for example: xyz123.mp4 will be changed to MP4-1.mp4 <br />
+  The script also creates a log file that contains all changes and the path to the folder <br />
+  (the log file is located inside the script's folder) <br />
+  I am not responsible for any damage that occures to your files/PC <br />
+  Use at your own risk <br />
+  This script renames all files within a folder with the extensions: <br />
+  .png .jpg .jpeg .mp4 .mov .webm . gif <br />
                                                                      
-How it works:
-  1- You pass a path to the script by copying the address
-     of the folder from your windows explorer
-  2- The script will process the names and change them
+How it works: <br />
+  1- You pass a path to the script by copying the address <br />
+     of the folder from your windows explorer <br /> 
+  2- The script will process the names and change them <br />
