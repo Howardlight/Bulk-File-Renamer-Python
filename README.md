@@ -5,8 +5,10 @@ Dependencies: <br />
 Description: <br />
   The names will be preset as {extensiontyp}-{N}.{extensiontype} <br />
   for example: xyz123.mp4 will be changed to MP4-1.mp4 <br />
+  <br />
   The script also creates a log file that contains all changes and the path to the folder <br />
   (the log file is located inside the script's folder) <br />
+  <br />
   This script renames all files within a folder with the extensions: <br />
   .png .jpg .jpeg .mp4 .mov .webm . gif <br />
   <br />
